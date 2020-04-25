@@ -1,0 +1,6 @@
+D:\PBO\Soal UTS No 2\Soal UTS No 2\bin\Debug\Soal UTS No 2.exe.config
+D:\PBO\Soal UTS No 2\Soal UTS No 2\bin\Debug\Soal UTS No 2.exe
+D:\PBO\Soal UTS No 2\Soal UTS No 2\bin\Debug\Soal UTS No 2.pdb
+D:\PBO\Soal UTS No 2\Soal UTS No 2\obj\Debug\Soal UTS No 2.csprojResolveAssemblyReference.cache
+D:\PBO\Soal UTS No 2\Soal UTS No 2\obj\Debug\Soal UTS No 2.exe
+D:\PBO\Soal UTS No 2\Soal UTS No 2\obj\Debug\Soal UTS No 2.pdb
